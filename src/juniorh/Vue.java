@@ -14,9 +14,9 @@ public class Vue extends JFrame {
     public Vue() {
         super("Gestionnaire de tâches");
         this.setPreferredSize(new Dimension(400, 300));
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.add(this.inputForm);
         this.add(this.tasksDisplay);
         this.pack();
-        this.setVisible(true);
     }
 }
