@@ -10,7 +10,7 @@ Ce document récapitule les réalisations effectuées dans le cadre du TP de ges
 - [ ] Bouton "Ajouter".
 - [ ] Test unitaire associé.
 
-(Explication et justification de ce qui a été fait...)
+WIP
 
 ### Modification d'une tâche
 
