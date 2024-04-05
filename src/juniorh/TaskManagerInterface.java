@@ -1,3 +1,5 @@
+package juniorh;
+
 public interface TaskManagerInterface {
     void ajouterTache(Task tache);
     void lodifierTache(Task tache);
